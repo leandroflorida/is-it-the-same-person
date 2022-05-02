@@ -3,10 +3,10 @@ facial recognition to compare people and find out if... is it the same person?
 
 ## Instalation
 
-Install dependencies using `requirements.txt`
+Install dependencies using `boto3`
 
 ```shell
-pip install -r requirements.txt
+python -m pip install boto3
 ```
 
 ## Usage
