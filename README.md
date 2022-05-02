@@ -24,7 +24,7 @@ The next step is to download the aws command line interface tool. You can find t
 ![Dataset Labeling](https://github.com/leandroflorida/is-it-the-same-person/blob/main/tela_inicial.png)
 
 
-## TO DO
+## Youtube Vídeo
 I recorded a video in Portuguese on youtube for more examples and explanations.
 
 https://www.youtube.com/watch?v=fSMkQ7WzSYw
