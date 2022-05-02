@@ -13,9 +13,9 @@ python -m pip install boto3
 
 To use the project successfully, you need to follow the steps below.
 
-### 1. Dataset
+### 1. AWS Account
 
-It is needed to build a dataset through the `dataset_generator.py` script.
+It is needed to build a AWS account and install AWS Command Line
 
 This script builds a dataset with train and validation directories according by user labeling, using real time cam frames from reality show.
 
