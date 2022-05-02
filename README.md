@@ -20,6 +20,13 @@ Downloading awscli
 
 The next step is to download the aws command line interface tool. You can find the download here: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
+### 2. AWS COMMAND Line Interface
+
+And Set the command: AWS CONFIGURE
+![Dataset Labeling](https://github.com/leandroflorida/is-it-the-same-person/blob/main/aws4-1536x610.jpg)
+
+
+
 ## Usage
 ![Dataset Labeling](https://github.com/leandroflorida/is-it-the-same-person/blob/main/tela_inicial.png)
 
@@ -28,3 +35,7 @@ The next step is to download the aws command line interface tool. You can find t
 I recorded a video in Portuguese on youtube for more examples and explanations.
 
 https://www.youtube.com/watch?v=fSMkQ7WzSYw
+
+
+Credits
+Matt Edmmond
