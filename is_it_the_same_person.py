@@ -22,8 +22,8 @@ for faceMatch in response['FaceMatches']:
     position = faceMatch['Face']['BoundingBox']
     similarity = str(faceMatch['Similarity'])
     print('[+] Excelente, as imagens' +
-           #str(position['Left']) + ' ' +
-           #str(position['Top']) +
+           str(position['Left']) + ' ' +
+           str(position['Top']) +
            ' combinam em : ' + similarity + '% de Exatidão')
 
 imageSource.close()
