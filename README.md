@@ -8,7 +8,7 @@ Install dependencies using `boto3`
 ```shell
 python -m pip install boto3
 ```
-![Dataset Labeling](blob/main/tela_inicial.png)
+![Dataset Labeling](https://github.com/leandroflorida/is-it-the-same-person/blob/main/tela_inicial.png)
 ## Usage
 
 To use the project successfully, you need to follow the steps below.
