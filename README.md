@@ -19,6 +19,9 @@ It is needed to create a AWS account and install AWS Command Line
 
 This script builds a dataset with train and validation directories according by user labeling, using real time cam frames from reality show.
 
+![Dataset Labeling](https://github.com/leandroflorida/is-it-the-same-person/blob/main/tela_inicial.png)
+
+
 On execute will be created a directory on `src` folder with the following structure:
 
 ```
