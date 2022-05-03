@@ -18,7 +18,7 @@ It is needed to create a AWS account and install AWS Command Line
 
 (optional) Create a administrator user account
 
-https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/getting-started_create-admin-group.html
+https://docs.aws.amazon.com/cloudhsm/latest/userguide/create-iam-user.html
 
 Downloading awscli
 
