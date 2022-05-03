@@ -16,6 +16,10 @@ To use the project successfully, you need to follow the steps below.
 
 It is needed to create a AWS account and install AWS Command Line
 
+(optional) Create a administrator user account
+
+https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/getting-started_create-admin-group.html
+
 Downloading awscli
 
 The next step is to download the aws command line interface tool. You can find the download here: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
